@@ -15,10 +15,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://ivancheban.github.io/',
+  url: 'https://ivancheban.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/test-website',
+  baseUrl: '/test-website/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
